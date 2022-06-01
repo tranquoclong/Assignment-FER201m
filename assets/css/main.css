@@ -1,19 +1,20 @@
 .row-header {
   margin: 0px auto;
-  padding: 0px 0px;
+  padding: 0 0;
 }
 
 .row-content {
   margin: 0px auto;
-  padding: 50px 0px;
+  padding: 50px 0;
   border-bottom: 1px ridge;
   min-height: 400px;
+  display: block;
 }
 
 .footer {
   background-color: #d1c4e9;
   margin: 0px auto;
-  padding: 20px 0px;
+  padding: 20px 0;
 }
 
 .jumbotron {
